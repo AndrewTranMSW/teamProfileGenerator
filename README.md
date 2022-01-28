@@ -2,10 +2,10 @@
 
 ### Github : https://github.com/AndrewTranMSW/teamProfileGenerator
 
-### Walkthrough video : 
+### Walkthrough video : https://youtu.be/Y5oiq1yPFvs
 
 ## Description
-A Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
+A Node.js command-line application that takes in information about managers, engineers, and interns on a software engineering team and generates an HTML webpage that displays summaries for each person.
 
 
 ## User Story
@@ -28,22 +28,23 @@ A Node.js command-line application that takes in information about employees on 
 - When user click on the GitHub username, then that GitHub profile opens in a new tab
 
 
-## Screenshots
-![](assets/)
+## Functionality
+![](assets/tutorial.gif.gif)
 
-![](assets/)
-
-![](assets/)
+![](assets/screenshot.png)
 
 
 ## Technologies Used
 <p><a href="https://nodejs.org/">Node.js</a></p>
 <p><a href="https://www.npmjs.com/">NPM</a></p>
-<p><a href="https://www.npmjs.com/package/inquirer">Inquirer.js</a></p>
 <p><a href="https://www.npmjs.com/package/jest">Jest</a></p>
-<p><a href="https://getbootstrap.com/">Bootstrap</a></p>
+<p><a href="https://www.npmjs.com/package/inquirer">Inquirer.js</a></p>
+
 
 
 ## Contributor:
-Andrew Tran
+<u>Andrew Tran</u>
+<br>
+- Github: (https://github.com/andrewtranMSW)
+- E-mail address: andrewtranmsw@gmail.com
 - - -
